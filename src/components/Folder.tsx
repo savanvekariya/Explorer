@@ -1,4 +1,4 @@
-import { FormEvent, useEffect, useState } from "react";
+import React, { useState } from "react";
 import { Explorer } from "../App";
 
 interface ExplorerProps {
