@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import "./App.css";
 import Folder from "./components/Folder";
 import explorer from "./data/folderData";
